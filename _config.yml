@@ -6,14 +6,14 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_sass/']
 
 
 # Site Settings
 title: "Adform Tech Days 2016"
 email: "paulius.lescinskas@adform.com"
 description: ""
-baseurl: "/techdays"
+baseurl: "/zeppelin"
 url: "http://adform.github.io/techdays"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
