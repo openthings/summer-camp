@@ -361,12 +361,12 @@
             }];
 
             var mapOptions = {
-                zoom: 17,
+                zoom: 14,
                 minZoom: 2,
                 scrollwheel: false,
                 panControl: false,
                 draggable: true,
-                zoomControl: false,
+                zoomControl: true,
                 zoomControlOptions: {
                     position: google.maps.ControlPosition.RIGHT_TOP
                 },
