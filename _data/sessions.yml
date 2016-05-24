@@ -99,3 +99,13 @@
 #  complexity: ""
 #  presentation: 
 #  video:
+-
+  id: 010
+  title: "High performance .NET by example"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+#  language: en
+#  complexity: ""
+#  presentation: 
+#  video:
