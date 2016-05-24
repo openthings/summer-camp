@@ -61,7 +61,7 @@
 #  video:
 -
   id: 006
-  title: "Qualys Report Usage"
+  title: "Vulnerability Report Usage"
   description: ""
   subtype: presentation
   speakers: [8, 9]

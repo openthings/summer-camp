@@ -95,3 +95,14 @@
     - {name: "twitter", link: "https://www.twitter.com/lescinskas"}
     - {name: "github", link: "https://github.com/plutzilla"}
     - {name: "site", link: "https://lescinskas.lt"}
+-
+  id: 10
+  name: "Alexandr"
+  surname: "Nikitin"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: AlexandrNikitin.jpg
+  rockstar: false
+  social: 
+    - {name: "github", link: "https://github.com/alexandrnikitin"}
