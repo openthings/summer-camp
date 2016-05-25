@@ -76,16 +76,6 @@
 #  presentation: 
 #  video:
 -
-  id: 006
-  title: "Vulnerability Report Usage"
-  description: ""
-  subtype: presentation
-  speakers: [8, 9]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
--
   id: 007
   title: "Secure App Development"
   description: ""
@@ -127,10 +117,10 @@
 #  video:
 -
   id: 011
-  title: "Suggest a talk"
+  title: "Security talk"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [8]
   
 # Hackathon
 -
