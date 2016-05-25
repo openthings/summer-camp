@@ -1,13 +1,29 @@
 -
-  id: 307
+  id: 901
+  title: "Registration"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 902
   title: "Coffee Break"
-  place: "Hall"
+  place: ""
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 903
+  title: "Lunch"
+  place: ""
+  service: true
+-
+  id: 904
+  title: "Closing"
+  place: ""
+  service: true
+-
+  id: 905
+  title: "Opening"
+  place: ""
   service: true
 -
   id: 001
@@ -51,10 +67,10 @@
 #  video:
 -
   id: 005
-  title: "Ethical Hacking"
+  title: "Ethical Hacking/Wi-fi hacking"
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: [8, 9]
 #  language: en
 #  complexity: ""
 #  presentation: 
@@ -109,3 +125,57 @@
 #  complexity: ""
 #  presentation: 
 #  video:
+-
+  id: 011
+  title: "Suggest a talk"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+# Hackathon
+-
+  id: 101
+  title: "Morning coffee and team formation"
+  description: ""
+  service: true
+-
+  id: 102
+  title: "Lunch"
+  description: ""
+  service: true
+-
+  id: 103
+  title: "Dinner"
+  description: ""
+  service: true
+-
+  id: 104
+  title: "Presentations"
+  description: ""
+  service: true
+-
+  id: 105
+  title: "Closing"
+  description: ""
+  service: true
+-
+  id: 106
+  title: "Mini afterparty"
+  description: ""
+  service: true
+-
+-
+  id: 107
+  title: "Morning coffee"
+  description: ""
+  service: true
+-
+  id: 201
+  title: "Hackathon"
+  description: ""
+  subtype: presentation
+-
+  id: 202
+  title: "Hacking Lab"
+  description: ""
+  subtype: presentation
