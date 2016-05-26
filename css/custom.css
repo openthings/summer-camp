@@ -5,3 +5,11 @@ nav li a {
 .top-section-hero .jumbotron p {
     font-weight: bold;
 }
+
+.timeslot {
+    border-top: none;
+}
+
+.schedule-slot {
+    border-top: 1px solid #e7e7e7;
+}
