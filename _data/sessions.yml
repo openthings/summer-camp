@@ -98,7 +98,7 @@
 -
   id: 009
   title: "An introduction to distributed system architecture"
-  description: ""
+  description: "Interactive introduction to the fundamentals of distributed system architectures. You will learn about the basic concepts of distributed systems, including characteristics like concurrency, global clocks, availability and all the other challenges that you face with distributed systems. Participants are welcome to discuss any of the topics which they would like to master more deeply."
   subtype: presentation
   speakers: [7]
 #  language: en
@@ -108,7 +108,7 @@
 -
   id: 010
   title: "High performance .NET by example"
-  description: ""
+  description: "We have a feature in Adform that identifies unwanted bot traffic. It’s backed by the Aho–Corasick algorithm, a string searching algorithm that matches all strings simultaneously. We will discover the algorithm and its current implementation. We will learn how to write micro benchmarks, profile code and read assembly code. We will improve performance by 20-30 times by different techniques: re-implement BCL data structures, fix CPU cache misses, reduce main memory reads by putting values in CPU registers by force, avoid calls to Method table, evaluate .NET Core (try SIMD?)"
   subtype: presentation
   speakers: [10]
 #  language: en
