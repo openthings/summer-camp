@@ -5,7 +5,7 @@ permalink: /hacking-lab/
 isStaticPost: true
 ---
 
-######**Don't forget to [REGISTER](https://goo.gl/gYj0ks)!**
+######Don't forget to **[REGISTER](https://goo.gl/gYj0ks)**!
 
 During Hacking Lab everyone will walk through the phases of an attack until successfully pwning various systems and services. There are plenty of attack scenarios to play through and to complete scored objectives. Since the expected participants' skill and experience level is varying to a large degree, we cover a mix of *nix and Windows world and focus on explaining key concepts and on showing the real attack even to those who have never compiled or launched any exploits before.
 If you are going to participate in this thread mostly they would like to get some information upfront - [https://goo.gl/gYj0ks](https://goo.gl/gYj0ks)

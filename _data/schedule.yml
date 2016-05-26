@@ -2,10 +2,10 @@
   date: "2016-06-01"
   dateReadable: "June 1"
   tracks: 
-    - {title: "Track W", color: "#90be4e"}
-    - {title: "Track X", color: "#03a9f4"}
-    - {title: "Track Y", color: "#e91e63"}
-    - {title: "Track Z", color: "#90be4e"}
+    - {title: "Track W", color: "#006395"}
+    - {title: "Track X", color: "#36b44a"}
+    - {title: "Track Y", color: "#e33d43"}
+    - {title: "Track Z", color: "#ffc338"}
   timeslots:
     - {
     	startTime: "8:45",

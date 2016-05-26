@@ -67,10 +67,10 @@
 #  video:
 -
   id: 005
-  title: "Ethical Hacking/Wi-fi hacking"
+  title: "Beyond the security rainbow"
   description: ""
   subtype: presentation
-  speakers: [8, 9]
+  speakers: [8]
 #  language: en
 #  complexity: ""
 #  presentation: 
@@ -117,10 +117,10 @@
 #  video:
 -
   id: 011
-  title: "Security talk"
+  title: "WiFi hacking cookbook"
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: [9]
   
 # Hackathon
 -
