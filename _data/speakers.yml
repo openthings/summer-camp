@@ -40,7 +40,7 @@
   title: ""
   bio: ""
   thumbnailUrl: RaimondasTijunaitis.jpg
-  rockstar: true
+  rockstar: false
   social: 
 - 
   id: 6
@@ -106,3 +106,14 @@
   rockstar: false
   social: 
     - {name: "github", link: "https://github.com/alexandrnikitin"}
+-
+  id: 11
+  name: "Donatas"
+  surname: "Mažionis"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: DonatasMazionis.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: "https://github.com/donatasm"}
