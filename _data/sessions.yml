@@ -116,7 +116,7 @@
 #  presentation: 
 #  video:
 -
-  id: 011
+  id: 012
   title: "Hacking an Nginx module"
   description: ""
   subtype: presentation
@@ -131,6 +131,16 @@
   description: ""
   subtype: presentation
   speakers: [9]
+-
+  id: 012
+  title: "Hacking an Nginx module"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+#  language: en
+#  complexity: ""
+#  presentation: 
+#  video:
   
 # Hackathon
 -
