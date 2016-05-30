@@ -116,16 +116,6 @@
 #  presentation: 
 #  video:
 -
-  id: 012
-  title: "Hacking an Nginx module"
-  description: ""
-  subtype: presentation
-  speakers: [11]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
--
   id: 011
   title: "WiFi hacking cookbook"
   description: ""
