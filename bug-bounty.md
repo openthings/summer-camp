@@ -31,18 +31,6 @@ Before you submit a bug, we suggest you pay attention to the tips and instructio
  * If you found XSS vulnerability, don't use "alert(1)" as a proof-of-concept. Take it one step further and show how it can be exploited.
  * All submissions have to be made in JIRA - https://adform.atlassian.net/browse/BB
 
-##### Test Credentials
-
-Here is a list of test credential you can use. If you plan to use credentials other than the ones provided by us, keep in mind that you take the full responsibility for your actions.
-
-**These credentials will be disabled at the end of bug bounty.**
-
-**https://dmp.adform.com**: bug.bounty / 4Xw#o6L@8b
-
-**https://adform.com**: adminadmin / bugbounty16
-
-**https://adform.com**: clientlog / Bugbounty16
-
 ##### Who will evaluate submitted bugs?
 A "Security Verification" group will be formed from different teams within Adform. They will assess all submissions and determine if it qualifies for a bounty. The group consists of:
 
@@ -92,4 +80,3 @@ Payments will be made as a bonus to your original salary that comes in the begin
  * Don’t publicly disclose a bug.
  * Check the list of non-qualifying vulnerabilities to make sure that you aren't spending time chasing down a vulnerability that isn't going to qualify for a bounty.
  * Do not attempt to modify any production user data that is not your own.
- * We strongly recommend you to use **test credentials or accounts**.
