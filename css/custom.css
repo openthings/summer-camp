@@ -13,3 +13,11 @@ nav li a {
 .schedule-slot {
     border-top: 1px solid #e7e7e7;
 }
+@media (max-width: 767px) {
+    .slot-content {
+        border-top: 1px solid #e7e7e7;
+    }
+    .timeslot {
+        border-top: none;
+    }
+}
