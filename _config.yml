@@ -49,8 +49,7 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
- - {permalink: "/hacking-lab/", text: "Hacking lab"} # TODO
- - {permalink: "/bug-bounty/", text: "Bug bounty"} # TODO
+ - {permalink: "/hacking-lab/", text: "Hacking lab"}
 bottomNavigationLinks:
  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 rightNavigationButtons:
