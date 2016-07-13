@@ -1,3 +1,6 @@
+# Serving
+port: 9000
+
 # Plugins
 gems:
 - jekyll-sitemap
@@ -13,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_sass/']
 title: "Adform Tech Days 2016"
 email: "paulius.lescinskas@adform.com"
 description: ""
-baseurl: "/techdays2016"
+baseurl: "/adform-summer-camp"
 url: "http://adform.github.io/techdays2016"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
