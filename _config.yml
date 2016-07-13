@@ -68,7 +68,7 @@ heroButtons:
  # - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 
 # About Block
-aboutTitle: "About Adform Tech Days 2016"
+aboutTitle: "About Adform Summer Camp"
 aboutBlock:
  - {title: "Bootcamps", image: "conference.jpg", text: "Trainings and workshops on what matters!" }
  - {title: "Adform Expo", image: "workshop.jpg", text: "Work with whomever you want on whatever you want." }
