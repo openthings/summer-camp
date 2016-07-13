@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_sass/']
 
 
 # Site Settings
-title: "Adform Tech Days 2016"
+title: "Adform Summer Camp"
 email: "paulius.lescinskas@adform.com"
 description: ""
 baseurl: "/adform-summer-camp"
@@ -47,12 +47,12 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/bootcamps/", text: "Bootcamps"}
+ - {permalink: "/adform-expo/", text: "Adform Expo"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
- - {permalink: "/hacking-lab/", text: "Hacking lab"}
+ - {permalink: "/summer-fest/", text: "Summer Fest"}
+ - {permalink: "/info/", text: "Info"}
 bottomNavigationLinks:
  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 rightNavigationButtons:
@@ -60,20 +60,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Adform TechDays <typeout> 2016"
-eventDate: "June 1-3 2016"
-typeoutTextValues: '"", "Workshops", "Hackathon", "Trainings", "Hacking Lab", "Bug Bounty"'
+heroTitle: "Adform <typeout> 2016"
+eventDate: "August 18-20 2016"
+typeoutTextValues: '"", "Bootcamps", "Expo", "Summer Fest"'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
+ # - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 
 # About Block
 aboutTitle: "About Adform Tech Days 2016"
 aboutBlock:
- - {title: "Trainings", image: "conference.jpg", text: "Trainings and workshops on what matters!" }
- - {title: "Hackathon", image: "workshop.jpg", text: "Work with whomever you want on whatever you want." }
- - {title: "Hacking Lab", image: "hackathon.jpg", text: "Full-day of hacking servers, network, apps!" }
- - {title: "Bug Bounty", image: "bug-bounty.png", text: "Find security bugs and get paid!" }
+ - {title: "Bootcamps", image: "conference.jpg", text: "Trainings and workshops on what matters!" }
+ - {title: "Adform Expo", image: "workshop.jpg", text: "Work with whomever you want on whatever you want." }
+ - {title: "Summer Fest", image: "hackathon.jpg", text: "Full-day of hacking servers, network, apps!" }
+ - {title: "Info", image: "bug-bounty.png", text: "Find security bugs and get paid!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
