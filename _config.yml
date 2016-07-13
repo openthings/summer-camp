@@ -53,10 +53,10 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/summer-fest/", text: "Summer Fest"}
  - {permalink: "/info/", text: "Info"}
-bottomNavigationLinks:
- - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
-rightNavigationButtons:
- - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
+# bottomNavigationLinks:
+#  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
+# rightNavigationButtons:
+#  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -92,30 +92,30 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Socialinių mokslų kolegija"
-eventLocationLink: "http://www.smk.lt/"
-eventStreetAddress: "Kalvarijų g. 137E"
-eventAddressLocality: "Vilnius"
-eventAddressLocalityRegion: "Vilnius"
-eventPostalCode: "LT-08221"
-eventAddressCountry: "Lithuania"
-eventStartTime: "2016-06-01T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2016-06-03T23:59"
-eventPlaceCoordinates: "54.7163389, 25.2874172"
-mapCenterCoordinates: "54.7163389, 25.2874172"
-mapMobileCenterCoordinates: "54.7163389, 25.2874172"
+# Summer Fest Location Block
+sfLocationBlockTitle: "Location"
+sfEventLocationName: "Harmon Park"
+sfEventLocationLink: "http://www.harmonypark.lt/en/"
+sfEventStreetAddress: "41st km route Kaunas – Alytus"
+sfEventAddressLocality: "Vazgaikiemis"
+sfEventAddressLocalityRegion: "Prienai"
+sfEventPostalCode: "LT-59257"
+sfEventAddressCountry: "Lithuania"
+sfEventStartTime: "2016-06-20T10:00"
+sfEventDoorTime: "10:00"
+sfEventEndTime: "2016-06-21T12:00"
+sfEventPlaceCoordinates: "54.580300, 23.881577"
+sfMapCenterCoordinates: "54.580300, 23.881577"
+sfMapMobileCenterCoordinates: "54.580300, 23.881577"
 
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "1.jpg"
-venueSmallImage1: "2.jpg"
-venueSmallImage2: "3.jpg"
-venueSmallImage3: "5.jpg"
-venueTitle: "Socialinių mokslų kolegija"
-venueFeatures: [""]
+# Summer Fest Venue Block
+sfVenueBlockTitle: "Venue"
+sfVenueBigImage: "1.jpg"
+sfVenueSmallImage1: "2.jpg"
+sfVenueSmallImage2: "3.jpg"
+sfVenueSmallImage3: "5.jpg"
+sfVenueTitle: "Harmony Park"
+sfVenueFeatures: [""]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
