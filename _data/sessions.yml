@@ -113,3 +113,63 @@
   description: ""
   subtype: presentation
   speakers: []
+-
+  id: 101
+  title: "Opening Speech (Mats) Lounge area – 7th floor"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 102
+  title: "Introduction to PO booth sessions"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 103
+  title: "PO booth – session 1"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 104
+  title: "PO booth – session 2"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 105
+  title: "LUNCH (in the Canteen) + time to check mails"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 106
+  title: "PO booth – session 3"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 107
+  title: "Workshops in smaller groups"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 108
+  title: "Presentations of the group discussions"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 109
+  title: "Teambuilding activity"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 110
+  title: "Dinner @ the office"
+  description: ""
+  subtype: presentation
+  speakers: []

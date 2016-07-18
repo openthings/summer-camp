@@ -5,7 +5,6 @@
     - {title: "Track W", color: "#006395"}
     - {title: "Track X", color: "#36b44a"}
     - {title: "Track Y", color: "#e33d43"}
-    # - {title: "Track Z", color: "#ffc338"}
   timeslots:
     - {
     	startTime: "9:30",

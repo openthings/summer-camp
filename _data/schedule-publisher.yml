@@ -1,0 +1,11 @@
+- 
+  date: "2016-08-19"
+  dateReadable: ""
+  tracks: 
+    - {title: "What", color: "#006395"}
+  timeslots:
+    - {
+        startTime: "19:00",
+        endTime: "",
+        sessionIds: [110]
+    }

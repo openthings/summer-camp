@@ -1,11 +1,11 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule" style="padding-top: 25px; padding-bottom: 0;">
     <div class="content-wrapper">
-        {% for day in site.data.schedule %}
+        {% for day in site.data.schedule-nordic %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1" style="margin-bottom: 40px;">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="schedule-slot track-header-label"></div>
+                <div class="schedule-slot track-header-label">When</div>
                 <div class="schedule-slot timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
