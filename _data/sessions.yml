@@ -1,43 +1,45 @@
 -
   id: 901
-  title: "Registration"
+  title: "Registration & Coffee"
   place: ""
   service: true
   description: ""
 -
   id: 902
-  title: "Coffee Break"
+  title: "Break"
   place: ""
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
-  id: 903
+  id: 9030
   title: "Lunch"
   place: ""
   service: true
 -
+  id: 9031
+  title: "Expo"
+  description: "Register <a href='http://www.google.com' target='_blank'>HERE</a> if you want to have a booth"
+  place: ""
+  service: true
+-
+  id: 9032
+  title: "Workshops"
+  description: "Register <a href='http://www.google.com' target='_blank'>HERE</a> if you want to ORGANIZE a workshop"
+  place: ""
+  service: true
+-
   id: 904
-  title: "Closing"
+  title: "Barbeque @ Litexpo & Global Village"
   place: ""
   service: true
 -
   id: 905
-  title: "Opening"
+  title: "Transfer to the Hotels"
   place: ""
   service: true
 -
-  id: 001
-  title: "How to use UX guidelines for Front-end Needs"
-  description: ""
-  subtype: presentation
-  speakers: [3]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
--
-  id: 002
-  title: "API Design Patterns"
+  id: 000
+  title: "State of the Nation"
   description: ""
   subtype: presentation
   speakers: [1]
@@ -46,136 +48,68 @@
 #  presentation: 
 #  video:
 -
-  id: 003
-  title: "How to Containerize Your App / Tests / Build / Everything"
+  id: 001
+  title: "Topic 1"
   description: ""
   subtype: presentation
-  speakers: [4]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
+-
+  id: 002
+  title: "Topic 2"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+-
+  id: 003
+  title: "Topic 3"
+  description: ""
+  subtype: presentation
+  speakers: [1]
 -
   id: 004
-  title: "Microservice Kata for .NET Developers: Build & deploy service in less than an hour"
+  title: "Topic 4"
   description: ""
   subtype: presentation
-  speakers: [5]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
 -
   id: 005
-  title: "Beyond the security rainbow"
+  title: "Topic 5"
   description: ""
   subtype: presentation
-  speakers: [8]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
+-
+  id: 006
+  title: "Topic 6"
+  description: ""
+  subtype: presentation
+  speakers: [1]
 -
   id: 007
-  title: "Secure App Development"
+  title: "Topic 7"
   description: ""
   subtype: presentation
-  speakers: [2]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
 -
   id: 008
-  title: "Building Self-healing and Reliable Solutions in Partnership with Unreliable Components"
+  title: "Topic 8"
   description: ""
   subtype: presentation
-  speakers: [6]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
 -
   id: 009
-  title: "An introduction to distributed system architecture"
-  description: "Interactive introduction to the fundamentals of distributed system architectures. You will learn about the basic concepts of distributed systems, including characteristics like concurrency, global clocks, availability and all the other challenges that you face with distributed systems. Participants are welcome to discuss any of the topics which they would like to master more deeply."
+  title: "Topic 9"
+  description: ""
   subtype: presentation
-  speakers: [7]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
 -
   id: 010
-  title: "High performance .NET by example"
-  description: "We have a feature in Adform that identifies unwanted bot traffic. It’s backed by the Aho–Corasick algorithm, a string searching algorithm that matches all strings simultaneously. We will discover the algorithm and its current implementation. We will learn how to write micro benchmarks, profile code and read assembly code. We will improve performance by 20-30 times by different techniques: re-implement BCL data structures, fix CPU cache misses, reduce main memory reads by putting values in CPU registers by force, avoid calls to Method table, evaluate .NET Core (try SIMD?)"
+  title: "Topic 10"
+  description: ""
   subtype: presentation
-  speakers: [10]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
+  speakers: [1]
 -
   id: 011
-  title: "WiFi hacking cookbook"
+  title: "Topic 11"
   description: ""
   subtype: presentation
-  speakers: [9]
--
-  id: 012
-  title: "Hacking an Nginx module"
-  description: ""
-  subtype: presentation
-  speakers: [11]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
-  
-# Hackathon
--
-  id: 101
-  title: "Morning coffee and team formation"
-  description: ""
-  service: true
--
-  id: 102
-  title: "Lunch"
-  description: ""
-  service: true
--
-  id: 103
-  title: "Dinner"
-  description: ""
-  service: true
--
-  id: 104
-  title: "Presentations"
-  description: ""
-  service: true
--
-  id: 105
-  title: "Closing"
-  description: ""
-  service: true
--
-  id: 106
-  title: "Mini afterparty"
-  description: ""
-  service: true
--
--
-  id: 107
-  title: "Morning coffee"
-  description: ""
-  service: true
--
-  id: 201
-  title: "Hackathon"
-  description: ""
-  subtype: presentation
--
-  id: 202
-  title: "Hacking Lab"
-  description: ""
-  subtype: presentation
+  speakers: [1]

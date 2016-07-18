@@ -1,133 +1,79 @@
 - 
-  date: "2016-06-01"
-  dateReadable: "June 1"
+  date: "2016-08-19"
+  dateReadable: "Agenda"
   tracks: 
     - {title: "Track W", color: "#006395"}
     - {title: "Track X", color: "#36b44a"}
     - {title: "Track Y", color: "#e33d43"}
-    - {title: "Track Z", color: "#ffc338"}
+    # - {title: "Track Z", color: "#ffc338"}
   timeslots:
-    - {
-    	startTime: "8:45",
-    	endTime: "9:00",
-    	sessionIds: [901]
-    }
     - {
     	startTime: "9:30",
     	endTime: "",
-    	sessionIds: [905]
+    	sessionIds: [901]
     }
     - {
     	startTime: "10:00",
     	endTime: "",
-    	sessionIds: [001, 004, 010, 003]
+    	sessionIds: [000]
     }
     - {
-        startTime: "12:00",
+    	startTime: "11:00",
+    	endTime: "",
+    	sessionIds: [001, 002, 003]
+    }
+    - {
+        startTime: "11:30",
         endTime: "",
-        sessionIds: [404, 404, 404, 005]
+        sessionIds: [902]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "",
+        sessionIds: [004, 005, 006]
+    }
+    - {
+        startTime: "12:15",
+        endTime: "",
+        sessionIds: [902]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "",
+        sessionIds: [007, 008, 009]
     }
     - {
     	startTime: "13:00",
     	endTime: "",
-    	sessionIds: [903]
+    	sessionIds: [9030]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "",
-    	sessionIds: [001, 012, 009, 007]
+        startTime: "13:00",
+        endTime: "",
+        sessionIds: [9031]
     }
     - {
-    	startTime: "15:00",
-    	endTime: "",
-    	sessionIds: [008, 002, 404, 404]
+        startTime: "13:00",
+        endTime: "",
+        sessionIds: [9032]
     }
     - {
     	startTime: "16:00",
     	endTime: "",
-    	sessionIds: [404, 404, 011, 404]
+    	sessionIds: [010]
     }
     - {
     	startTime: "17:00",
-    	endTime: "18:00",
+    	endTime: "",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "",
     	sessionIds: [904]
     }
-- 
-  date: "2016-06-02"
-  dateReadable: "June 2"
-  tracks: 
-    - {title: "Hackathon", color: "#90be4e"}
-    - {title: "Hacking Lab", color: "#03a9f4"}
-  timeslots: 
     - {
-    	startTime: "9:00",
-    	endTime: "9:30",
-    	sessionIds: [101]
-    }
-    - {
-    	startTime: "9:30",
-    	endTime: "12:30",
-    	sessionIds: [201, 202]
-    }
-    - {
-    	startTime: "12:30",
-    	endTime: "13:30",
-    	sessionIds: [102]
-    }
-    - {
-    	startTime: "13:30",
-    	endTime: "17:30",
-    	sessionIds: [201, 202]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "18:30",
-    	sessionIds: [103]
-    }
-    - {
-    	startTime: "18:30",
-    	endTime: "",
-    	sessionIds: [201]
-    }
-- 
-  date: "2016-06-03"
-  dateReadable: "June 3"
-  tracks: 
-    - {title: "Hackathon", color: "#90be4e"}
-    - {title: "Hacking Lab", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "8:30",
-    	endTime: "9:30",
-    	sessionIds: [107]
-    }
-    - {
-    	startTime: "9:30",
-    	endTime: "12:30",
-    	sessionIds: [201, 202]
-    }
-    - {
-    	startTime: "12:30",
-    	endTime: "13:30",
-    	sessionIds: [102]
-    }
-    - {
-    	startTime: "13:30",
-    	endTime: "15:00",
-    	sessionIds: [201, 202]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "16:30",
-    	sessionIds: [104]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "17:30",
-    	sessionIds: [105]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "18:30",
-    	sessionIds: [106]
+    	startTime: "21:00",
+    	endTime: "22:00",
+    	sessionIds: [905]
     }

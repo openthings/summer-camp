@@ -1,17 +1,17 @@
 - 
   id: 1
-  name: "Roman"
-  surname: "Bugaev"
+  name: "Mats"
+  surname: "Persson"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: RomanBugaev.jpg
-  rockstar: true
+  thumbnailUrl: MatsPersson.jpg
+  rockstar: false
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "twitter", link: "https://www.twitter.com/rbugaev"}
-    - {name: "github", link: "https://github.com/rbugaev"}
+  # social: 
+  #   - {name: "twitter", link: "https://www.twitter.com/rbugaev"}
+  #   - {name: "github", link: "https://github.com/rbugaev"}
 -
   id: 3
   name: "Mykolas"
