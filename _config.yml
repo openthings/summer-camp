@@ -59,7 +59,7 @@ navigationLinks:
 #  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "headers-title-page.jpg"
 heroTitle: "Adform <typeout> 2016"
 eventDate: "August 18-20 2016"
 typeoutTextValues: '"", "Bootcamps", "Expo", "Summer Fest"'
@@ -70,10 +70,10 @@ heroButtons:
 # About Block
 aboutTitle: "About Adform Summer Camp"
 aboutBlock:
- - {title: "Bootcamps", image: "conference.jpg", text: "Trainings and workshops on what matters!" }
- - {title: "Adform Expo", image: "workshop.jpg", text: "Work with whomever you want on whatever you want." }
- - {title: "Summer Fest", image: "hackathon.jpg", text: "Full-day of hacking servers, network, apps!" }
- - {title: "Info", image: "bug-bounty.png", text: "Find security bugs and get paid!" }
+ - {title: "Bootcamps", image: "icons-bootcamps.png", text: "August 18th – Team meetings, discussions, sharing experience & building the team spirit!<br>This year there will be five bootcamps: PSM, Nordic Buyside Commercial, Sales, Publisher Platform and Brand Solutions.<br>On August 17th and 18th dinners will be at the office at 19:00, everyone is invited!" }
+ - {title: "Adform Expo", image: "icons-expo.png", text: "August 19th Adform Expo day @ Litexpo.<br>Conference, exhibition booths, workshops, global village and barbeque dinner!" }
+ - {title: "Summer Fest", image: "icons-summerfest.png", text: "August 20th - The craziest Adform summer event with lots of activities and fun!<br>It's an annual event, where you can reconnect with adformers from all over the world in non-formal place. This year there will be mix of active and chill activities, lots of good food, good mood and crazy people!<br>" }
+ - {title: "Info", image: "icons-info.png", text: "Find here all the information you might need during your stay in Lithuania." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -110,10 +110,10 @@ sfMapMobileCenterCoordinates: "54.580300, 23.881577"
 
 # Summer Fest Venue Block
 sfVenueBlockTitle: "Venue"
-sfVenueBigImage: "1.jpg"
-sfVenueSmallImage1: "2.jpg"
-sfVenueSmallImage2: "3.jpg"
-sfVenueSmallImage3: "5.jpg"
+sfVenueBigImage: "Harmony4.jpg"
+sfVenueSmallImage1: "Harmony1.jpg"
+sfVenueSmallImage2: "Harmony2.jpg"
+sfVenueSmallImage3: "Harmony3.jpg"
 sfVenueTitle: "Harmony Park"
 sfVenueFeatures: [""]
 

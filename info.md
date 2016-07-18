@@ -3,6 +3,7 @@ layout: post
 title: Info
 permalink: /info/
 isStaticPost: true
+image: headers-info.jpg
 ---
 
 <!--
