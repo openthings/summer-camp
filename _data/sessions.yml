@@ -52,64 +52,64 @@
   title: "Topic 1"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 002
   title: "Topic 2"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 003
   title: "Topic 3"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 004
   title: "Topic 4"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 005
   title: "Topic 5"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 006
   title: "Topic 6"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 007
   title: "Topic 7"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 008
   title: "Topic 8"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 009
   title: "Topic 9"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 010
   title: "Topic 10"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
 -
   id: 011
   title: "Topic 11"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: []
