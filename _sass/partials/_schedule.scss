@@ -89,7 +89,7 @@ $small-label-width: 80px;
     float: left;
     display: block;
     transition: $base-transition;
-    font-size: 40px;
+    font-size: 25px;
     font-weight: $light;
     @media (max-width: 767px) {
         font-size: 28px;
@@ -160,8 +160,7 @@ $small-label-width: 80px;
     background: #ccc;
 }
 .slot-content {
-    padding: 20px 15px 30px;
-    min-height: 120px;
+    padding: 20px 15px 22px;
     background: #fff;
     transform: translateY(0);
     transition: $base-transition;
@@ -178,6 +177,9 @@ $small-label-width: 80px;
     &:hover {
         transform: translateY(5px);
     }
+}
+.schedule-smaller .slot-content {
+    padding: 20px 15px 5px;
 }
 .slot-language {
     position: absolute;
