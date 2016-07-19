@@ -357,9 +357,8 @@
 -
   id: 801
   title: "Leaving from Vilnius"
-  description: ""
-  subtype: presentation
-  speakers: []
+  description: "The busses will be leaving from the Vilnius office (Sporto st. 18) and hotels at 09:30. Don’t be late!!!"
+  service: true
 -
   id: 802
   title: "Welcome of CRAZY LAB teams"
