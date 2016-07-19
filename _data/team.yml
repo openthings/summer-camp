@@ -1,60 +1,56 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Jenni"
+  surname: "Strand"
+  title: "PSM bootcamp"
+  thumbnailUrl: jenni.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "email", link: "mailto:Jenni.Strand@adform.com", title: "Jenni.Strand@adform.com"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Mats"
+  surname: "Persson"
+  title: "Nordic Buyside Commercial Bootcamp"
+  thumbnailUrl: mats-bw.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "email", link: "mailto:Mats.Persson@adform.com", title: "Mats.Persson@adform.com"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Sandra"
+  surname: "Andriuškienė"
+  title: "Sales Bootcamp Non-Nordics/ROW"
+  thumbnailUrl: Sandra.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "email", link: "mailto:Sandra.Andriuskiene@adform.com", title: "Sandra.Andriuskiene@adform.com"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Bartosz"
+  surname: "Malinowski"
+  title: "Sales Bootcamp Non-Nordics/ROW"
+  thumbnailUrl: bartosz.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "email", link: "mailto:Bartosz.Malinowski@adform.com", title: "Bartosz.Malinowski@adform.com"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Jörg"
+  surname: "Vogelsang"
+  title: "Team Publisher Platform"
+  thumbnailUrl: jorg.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "email", link: "mailto:Joerg.Vogelsang@adform.com", title: "Joerg.Vogelsang@adform.com"}
+- 
+  id: 8
+  name: "David"
+  surname: "Hillier"
+  title: "Team Brand Solutions"
+  thumbnailUrl: david.jpg
+  team: true
+  social: 
+    - {name: "email", link: "mailto:David.Hillier@adform.com", title: "David.Hillier@adform.com"}
