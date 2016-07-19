@@ -1,4 +1,10 @@
 -
+  id: 900
+  title: "Transfer from the hotels to the Litexpo"
+  place: ""
+  service: true
+  description: ""
+-
   id: 901
   title: "Registration & Coffee"
   place: ""
@@ -18,18 +24,19 @@
 -
   id: 9031
   title: "Expo"
-  description: "Register <a href='http://www.google.com' target='_blank'>HERE</a> if you want to have a booth"
+  description: "Register <a href='https://podio.com/webforms/16169989/1085596' target='_blank'>HERE</a> if you want to have a booth"
   place: ""
   service: true
 -
   id: 9032
   title: "Workshops"
-  description: "Register <a href='http://www.google.com' target='_blank'>HERE</a> if you want to ORGANIZE a workshop"
+  description: "Register <a href='https://podio.com/webforms/16169989/1085596' target='_blank'>HERE</a> if you want to ORGANIZE a workshop"
   place: ""
   service: true
 -
   id: 904
   title: "Barbeque @ Litexpo & Global Village"
+  description: "Register <a href='https://docs.google.com/forms/d/e/1FAIpQLSeUbntzVASxwu7jrFyMqok6qW8I4dYtFCp4Carwb07wV7Bzqg/viewform?c=0&w=1' target='_blank'>HERE</a> if you want to showcase your culture"
   place: ""
   service: true
 -

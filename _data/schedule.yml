@@ -2,14 +2,19 @@
   date: "2016-08-19"
   dateReadable: "Agenda"
   tracks: 
-    - {title: "Track W", color: "#006395"}
-    - {title: "Track X", color: "#36b44a"}
-    - {title: "Track Y", color: "#e33d43"}
+    - {title: "Track 5.1", color: "#006395"}
+    - {title: "Track 5.2", color: "#36b44a"}
+    - {title: "Track 5.3", color: "#e33d43"}
   timeslots:
     - {
-    	startTime: "9:30",
+    	startTime: "9:00",
     	endTime: "",
-    	sessionIds: [901]
+    	sessionIds: [900]
+    }
+    - {
+        startTime: "9:30",
+        endTime: "",
+        sessionIds: [901]
     }
     - {
     	startTime: "10:00",
