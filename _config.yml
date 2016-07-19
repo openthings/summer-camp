@@ -16,7 +16,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_sass/']
 title: "Adform Summer Camp"
 email: "vytautas.ciuksys@adform.com"
 description: ""
-baseurl: "http://summercamp.adform.com"
+baseurl: ""
 url: "http://summercamp.adform.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
