@@ -14,10 +14,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_sass/']
 
 # Site Settings
 title: "Adform Summer Camp"
-email: "paulius.lescinskas@adform.com"
+email: "vytautas.ciuksys@adform.com"
 description: ""
-baseurl: "/adform-summer-camp"
-url: "http://adform.github.io/techdays2016"
+baseurl: "/summer-camp"
+url: "http://adform.github.io/adform-summer-camp"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
