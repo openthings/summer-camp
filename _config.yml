@@ -70,9 +70,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Adform Summer Camp"
 aboutBlock:
- - {title: "Bootcamps", permalink: "/bootcamps/", image: "icons-bootcamps.png", text: "August 18th - Team meetings, discussions, sharing experience & building the team spirit!<br>This year there will be five bootcamps: PSM, Nordic Buyside Commercial, Sales, Publisher Platform and Brand Solutions.<br>On August 17th and 18th dinners will be at the office at 19:00, everyone is invited!" }
- - {title: "Adform Expo", permalink: "/adform-expo/", image: "icons-expo.png", text: "August 19th - Adform Expo day @ Litexpo.<br>Conference, exhibition booths, workshops, global village and barbeque dinner!" }
- - {title: "Summer Fest", permalink: "/summer-fest/", image: "icons-summerfest.png", text: "August 20th - It's an annual event, where you can reconnect with adformers from all over the world in non-formal place. This year there will be mix of active and chill activities, lots of good food, good mood and crazy people!<br>" }
+ - {title: "Bootcamps", permalink: "/bootcamps/", image: "icons-bootcamps.png", text: "<b>August 18th</b> - Team meetings, discussions, sharing experience & building the team spirit!<br>This year there will be five bootcamps: PSM, Nordic Buyside Commercial, Sales, Publisher Platform and Brand Solutions.<br>On August 17th and 18th dinners will be at the office at 19:00, everyone is invited!" }
+ - {title: "Adform Expo", permalink: "/adform-expo/", image: "icons-expo.png", text: "<b>August 19th</b> - Adform Expo day @ Litexpo.<br>Conference, exhibition booths, workshops, global village and barbeque dinner!" }
+ - {title: "Summer Fest", permalink: "/summer-fest/", image: "icons-summerfest.png", text: "<b>August 20th</b> - It's an annual event, where you can reconnect with adformers from all over the world in non-formal place. This year there will be mix of active and chill activities, lots of good food, good mood and crazy people!<br>" }
  - {title: "Info", permalink: "/info/", image: "icons-info.png", text: "Contacts, registration links to the events and important addresses." }
 
 # Statistic Block
