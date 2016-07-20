@@ -2,7 +2,7 @@
   date: "2016-08-19"
   dateReadable: ""
   tracks: 
-    - {title: "What", color: "#006395"}
+    - {title: "What", color: "#F2EEBF"}
   timeslots:
     - {
     	startTime: "9:00",
