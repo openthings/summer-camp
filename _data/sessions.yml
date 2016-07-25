@@ -425,3 +425,27 @@
   description: ""
   subtype: presentation
   speakers: []
+-
+  id: 401
+  title: "Making sense before making sense a.k.a. intro"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 402
+  title: "Part I"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 403
+  title: "Lunch"
+  description: ""
+  service: true
+  speakers: []
+-
+  id: 405
+  title: "Part II"
+  description: ""
+  subtype: presentation
+  speakers: []

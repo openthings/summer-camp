@@ -1,0 +1,26 @@
+- 
+  date: "2016-08-16"
+  dateReadable: ""
+  tracks: 
+    - {title: "What", color: "#EBDE5E"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "",
+        sessionIds: [401]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "",
+        sessionIds: [402]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [403]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "18:00",
+        sessionIds: [405]
+    }
