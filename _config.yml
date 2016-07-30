@@ -53,6 +53,8 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/summer-fest/", text: "Summer Fest"}
  - {permalink: "/info/", text: "Info"}
+ - {link: "https://play.google.com/store/apps/details?id=com.adform.summercamp", image: "/img/other/play-button.png"}
+ - {link: "https://itunes.apple.com/us/app/adform-summer-camp/id1133056225", image: "/img/other/itunes-button.png"}
 # bottomNavigationLinks:
 #  - {link: "http://learn.adform.com/?lec=upcoming&cat=Tech%20Innovation%20Days", text: "Register"}
 # rightNavigationButtons:

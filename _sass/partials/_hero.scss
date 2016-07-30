@@ -8,7 +8,7 @@
         margin: 0;
         left: 0;
         transform: translateY(-60%);
-        @media (max-width: 767px) {
+        @media (max-width: 960px) {
             margin: 0;
             padding: 0;
         }
@@ -24,7 +24,7 @@
 }
 .typeout-fallback {
     display: none;
-    @media (max-width: 767px) {
+    @media (max-width: 960px) {
         display: inline-block;
     }
 }
@@ -34,7 +34,7 @@
     bottom: -25px;
     left: 50%;
     animation: callToAction 3.5s linear 0s infinite;
-    @media (max-width: 767px) {
+    @media (max-width: 960px) {
         margin-left: -12.5px;
         bottom: 30px;
         animation: none;
@@ -44,7 +44,7 @@
     width: 32px;
     height: 32px;
     fill: #e6e6e6;
-    @media (max-width: 767px) {
+    @media (max-width: 960px) {
         width: 24px;
         height: 24px;
     }
