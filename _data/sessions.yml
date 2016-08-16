@@ -30,7 +30,12 @@
 -
   id: 9032
   title: "Workshops"
-  description: "PMO, more coming soon...<br><b>Register <a href='https://podio.com/webforms/16169989/1085596' target='_blank'>HERE</a> if you want to ORGANIZE a workshop</b>"
+  description: "13.15-14.15 Hello! I’ll be your tester today<br>
+                13.15-14.15 PMO Simulation Game<br>
+                14.45-15.45 Hello! I’ll be your tester today<br>
+                14.15-15.15 Web Components Integration To Your Application<br>
+                14.30-15.30 API Best Practices<br><br>
+                <b>Register <a href='https://antanasstrimaitis.typeform.com/to/TB3Ri1' target='_blank'>HERE</a> to the workshops, seats are limited!</b>"
   place: ""
   service: true
 -
