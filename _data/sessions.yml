@@ -182,13 +182,13 @@
   speakers: []
 -
   id: 201
-  title: "Opening / Oli introduction"
+  title: "Opening & intro / Oli Whitten"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 202
-  title: "Country updates"
+  title: "Country updates / Commercial Leads"
   description: ""
   subtype: presentation
   speakers: []
@@ -200,10 +200,12 @@
   speakers: []
 -
   id: 204
-  title: "GHG session/alignment - JP"
-  description: ""
-  subtype: presentation
-  speakers: []
+  title: "Workshops in groups"
+  description: "<b>Stream 1:</b> How to compete with the big guys (Google, Adobe, etc.)?<br>Moderator - David Roland<br><br>
+                <b>Stream 2:</b> What are the bottlenecks inside Adform and how to deal with them?<br>Moderator - Hendrik Kempfert<br><br>
+                <b>Stream 3 (for Brand Solutions):</b> Intro to Studio v2.0. and Video Studio.<br>Moderator - Karolis Strumskis"
+  service: true
+  place: ""
 -
   id: 205
   title: "Intro to workshops"
@@ -212,13 +214,14 @@
   speakers: []
 -
   id: 206
-  title: "Workshop 1&2"
-  description: ""
-  subtype: presentation
-  speakers: []
+  title: "Workshops in groups"
+  description: "<b>Stream 1:</b> Negotiations – how should we price in full stack pitches?<br>Moderator - Julian Baring<br><br>
+                <b>Stream 2:</b> What new products/features/services do we need to be successful?<br>Moderator - Dax Vercauteren"
+  service: true
+  place: ""
 -
   id: 207
-  title: "Presentations summarizing workshop discussion"
+  title: "Presentations summarizing workshop discussion (10 min each)"
   description: ""
   subtype: presentation
   speakers: []
@@ -229,32 +232,15 @@
   subtype: presentation
   speakers: []
 -
-  id: 209
-  title: "Workshop 3&4"
-  description: ""
-  subtype: presentation
-  speakers: []
--
-  id: 210
-  title: "Presentations summarizing workshop discussion "
-  description: ""
-  subtype: presentation
-  speakers: []
--
   id: 211
-  title: "Marc & Olli on best practice sharing \"Selling consulting hours & professional services\""
-  description: ""
-  subtype: presentation
-  speakers: []
--
-  id: 212
-  title: "Break"
-  description: ""
-  subtype: presentation
-  speakers: []
+  title: "Workshops in groups"
+  description: "<b>Stream 1:</b> Best Practice Sharing \"Selling consulting hours & professional services\"<br>Moderators - Marc Hudoffsky & Oliver Schlüter<br><br>
+                <b>Stream 2 (for Brand Solutions):</b> Outdoor Solutions<br>Moderator - Billy Jenkins"
+  service: true
+  place: ""
 -
   id: 213
-  title: "DMP session / Jochen & Oli Schlüter"
+  title: "DMP session / Ashu Mathura"
   description: ""
   subtype: presentation
   speakers: []
@@ -266,7 +252,19 @@
   speakers: []
 -
   id: 215
-  title: "Dinner @ the office"
+  title: "Dinner in Adform office"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 216
+  title: "Welcome coffee/tea"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 217
+  title: "GHG session /  John Paul - James"
   description: ""
   subtype: presentation
   speakers: []

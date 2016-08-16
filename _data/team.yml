@@ -45,12 +45,12 @@
   team: true
   social: 
     - {name: "email", link: "mailto:Joerg.Vogelsang@adform.com", title: "Joerg.Vogelsang@adform.com"}
-- 
-  id: 8
-  name: "David"
-  surname: "Hillier"
-  title: "Team Brand Solutions"
-  thumbnailUrl: david.jpg
-  team: true
-  social: 
-    - {name: "email", link: "mailto:David.Hillier@adform.com", title: "David.Hillier@adform.com"}
+# - 
+#   id: 8
+#   name: "David"
+#   surname: "Hillier"
+#   title: "Team Brand Solutions"
+#   thumbnailUrl: david.jpg
+#   team: true
+#   social: 
+#     - {name: "email", link: "mailto:David.Hillier@adform.com", title: "David.Hillier@adform.com"}
