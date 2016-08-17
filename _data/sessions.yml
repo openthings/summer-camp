@@ -56,10 +56,6 @@
   description: ""
   subtype: presentation
   speakers: [1]
-#  language: en
-#  complexity: ""
-#  presentation: 
-#  video:
 -
   id: 001
   title: "Sales Service updates"
@@ -123,6 +119,18 @@
 -
   id: 011
   title: "Q&A with Gustav, Stefan, Jakob and others"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 012
+  title: "API is the only way"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 013
+  title: "Architecture in Adform"
   description: ""
   subtype: presentation
   speakers: []
