@@ -7,7 +7,7 @@
     - {title: "Track 5.3", color: "#e33d43"}
   timeslots:
     - {
-    	startTime: "9:00",
+    	startTime: "8:30",
     	endTime: "",
     	sessionIds: [900]
     }

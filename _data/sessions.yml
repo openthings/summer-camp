@@ -3,7 +3,7 @@
   title: "Transfer from the hotels to the Litexpo"
   place: ""
   service: true
-  description: ""
+  description: "Transfers for foreign colleagues to Adform Expo will start at 8:30 (AM) from the hotels on Friday (19th of August). Look for Adform bus outside your hotel."
 -
   id: 901
   title: "Registration & Coffee"
@@ -49,6 +49,7 @@
   title: "Transfer to the Hotels"
   place: ""
   service: true
+  description: "Transfers from Expo back to hotels will start at 21:00. Look for Adform bus outside the Litexpo."
 -
   id: 000
   title: "State of the Nation"
