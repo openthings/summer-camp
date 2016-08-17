@@ -3,3 +3,80 @@
   name: "Mats"
   surname: "Persson"
   thumbnailUrl: mats-bw.jpg
+- 
+  id: 2
+  name: "Gustav"
+  surname: "Mellentin"
+  thumbnailUrl: GustavMellentin.jpg
+- 
+  id: 3
+  name: "Oliver"
+  surname: "Whitten"
+  thumbnailUrl: Olli.jpg
+  
+- 
+  id: 4
+  name: "Vytautas"
+  surname: "Jakštys"
+  thumbnailUrl: VytautasJakstys.jpg
+- 
+  id: 5
+  name: "Martynas"
+  surname: "Savickas"
+  thumbnailUrl: Martynas.jpg
+- 
+  id: 6
+  name: "Ashu"
+  surname: "Mathura"
+  thumbnailUrl: Ashu.jpg
+  
+- 
+  id: 7
+  name: "Nicolas"
+  surname: "Vittet"
+  thumbnailUrl: Nicolas_Vittet.jpg
+- 
+  id: 8
+  name: "Paulius"
+  surname: "Leščinskas"
+  thumbnailUrl: Paulius.jpg
+- 
+  id: 9
+  name: "Alison"
+  surname: "Egeberg"
+  thumbnailUrl: alison.jpg
+- 
+  id: 10
+  name: "David"
+  surname: "Hiller"
+  thumbnailUrl: David_Hillier.jpg
+- 
+  id: 11
+  name: "Kęstutis"
+  surname: "Bajorūnas"
+  thumbnailUrl: KestutisBajorunas.jpg
+- 
+  id: 12
+  name: "Stefan"
+  surname: "Sommer"
+  thumbnailUrl: stefanSommer.jpg
+- 
+  id: 13
+  name: "Andrej"
+  surname: "Ruckij"
+  thumbnailUrl: Andrej.jpg
+- 
+  id: 14
+  name: "Melvin"
+  surname: "Rook"
+  thumbnailUrl: Melvin.jpg
+- 
+  id: 15
+  name: "Justinas"
+  surname: "Koroliovas"
+  thumbnailUrl: JustinasKoraliovas.jpg
+- 
+  id: 16
+  name: "Erika"
+  surname: "Grainytė"
+  thumbnailUrl: ErikaGrainyte.jpg
