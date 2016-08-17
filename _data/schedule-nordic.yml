@@ -5,7 +5,47 @@
     - {title: "What", color: "#9DD9E4"}
   timeslots:
     - {
-        startTime: "19:00",
+        startTime: "13:00",
         endTime: "",
-        sessionIds: [110]
+        sessionIds: [501]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "",
+        sessionIds: [502]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "",
+        sessionIds: [504]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "",
+        sessionIds: [505]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "",
+        sessionIds: [506]
+    }
+    - {
+        startTime: "16:20",
+        endTime: "",
+        sessionIds: [507]
+    }
+    - {
+        startTime: "16:40",
+        endTime: "",
+        sessionIds: [508]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "",
+        sessionIds: [509]
     }

@@ -30,11 +30,11 @@
 -
   id: 9032
   title: "Workshops"
-  description: "13.15-14.15 Hello! I’ll be your tester today<br>
-                13.15-14.15 PMO Simulation Game<br>
-                14.45-15.45 Hello! I’ll be your tester today<br>
-                14.15-15.15 Web Components Integration To Your Application<br>
-                14.30-15.30 API Best Practices<br><br>
+  description: "Hall 5.1 / Time 13.15-14.15 PMO Simulation Game<br>
+                Hall 5.3 / Time 13.15-14.15 Hello! I’ll be your tester today<br>
+                Hall 5.2 / Time 14.15-15.15 Web Components Integration To Your Application<br>
+                Hall 5.1 / Time 14.30-15.30 API Best Practices<br>
+                Hall 5.3 / Time 14.45-15.45 Hello! I’ll be your tester today<br><br>
                 <b>Register <a href='https://antanasstrimaitis.typeform.com/to/TB3Ri1' target='_blank'>HERE</a> to the workshops, seats are limited!</b>"
   place: ""
   service: true
@@ -62,67 +62,67 @@
 #  video:
 -
   id: 001
-  title: "Topic 1"
+  title: "Sales Service updates"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 002
-  title: "Topic 2"
+  title: "Cookies die. So what?"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 003
-  title: "Topic 3"
+  title: "Information Security"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 004
-  title: "Topic 4"
+  title: "DMP, where we are and where are we going to"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 005
-  title: "Topic 5"
+  title: "The leak of conversion"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 006
-  title: "Topic 6"
+  title: "Modern API authorization using OAuth is here!"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 007
-  title: "Topic 7"
+  title: "Essentials of giving & receiving feedback"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 008
-  title: "Topic 8"
+  title: "Virtual reality (VR/AR) how it will be part of our day to day life"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 009
-  title: "Topic 9"
+  title: "Location as a new cookie"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 010
-  title: "Topic 10"
+  title: "Data (Ownership) is King"
   description: ""
   subtype: presentation
   speakers: []
 -
   id: 011
-  title: "Topic 11"
+  title: "Q&A with Gustav, Stefan, Jakob and others"
   description: ""
   subtype: presentation
   speakers: []
@@ -209,7 +209,7 @@
   title: "Workshops in groups"
   description: "<b>Stream 1:</b> How to compete with the big guys (Google, Adobe, etc.)?<br>Moderator - David Roland<br><br>
                 <b>Stream 2:</b> What are the bottlenecks inside Adform and how to deal with them?<br>Moderator - Hendrik Kempfert<br><br>
-                <b>Stream 3 (for Brand Solutions):</b> Intro to Studio v2.0. and Video Studio.<br>Moderator - Karolis Strumskis"
+                <b>Stream 3:</b> Stream 3 - How self-service production suite helps to sell the Ad Server, upsell rich media & video ad serving & programmatic rich media & video.<br>Moderator - Karolis Strumskis"
   service: true
   place: ""
 -
@@ -450,6 +450,69 @@
 -
   id: 405
   title: "Part II"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 501
+  title: "Start & Intro"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 502
+  title: "Tableau reports"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 503
+  title: "Break"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 504
+  title: "Billing project status incl. discussion"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 505
+  title: "Workshop"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 506
+  title: "Global Holding groups"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 507
+  title: "Client engagement / direct client"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 508
+  title: "Buyer solution presentation"
+  description: ""
+  subtype: presentation
+  speakers: []
+  
+-
+  id: 509
+  title: "Sum-up"
   description: ""
   subtype: presentation
   speakers: []
